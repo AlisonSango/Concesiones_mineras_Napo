@@ -5,8 +5,10 @@ Esta aplicación combina **R (Shiny, Leaflet, Plotly, sf, terra)** y **QGIS** pa
 Permite visualizar y explorar interactivamente datos geoespaciales obtenidos de fuentes oficiales ecuatorianas e internacionales, con el fin de apoyar procesos de análisis ambiental y planificación territorial.
 
 ---
+![Grabación 2025-11-11 001409](https://github.com/user-attachments/assets/0b3501c5-f240-4ee4-b4b0-e7bbbfec25a7)
 
 ## 🌍 Contenidos del proyecto
+
 
 ```
 Mineria_Napo_MVP/
